@@ -57,15 +57,15 @@ export default function Home() {
         </a>
 
         <a
-          href=""
+          href="https://nufinc-dev-ed.develop.my.site.com/nufinc"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={inter.className}>
-            Application <span>-&gt;</span>
+            Dashboard <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>Go to your Application</p>
+          <p className={inter.className}>Go to Dashboard</p>
         </a>
 
         <a
