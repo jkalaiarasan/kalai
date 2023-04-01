@@ -63,9 +63,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={inter.className}>
-            Dashboard <span>-&gt;</span>
+            Application <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>Start your management</p>
+          <p className={inter.className}>Go to your Application</p>
         </a>
 
         <a
